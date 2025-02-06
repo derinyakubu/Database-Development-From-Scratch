@@ -5,14 +5,12 @@ The project manager is assigned when the project is created and remains for the 
 The work log is a weekly form that the employee fills out at the end of each week (Friday) or at the end of each month. The form contains the date, the total hours worked that week (or up to the end of the month), and the number of the bill to which the work-log entry is charged. Obviously,each work-log entry can be related to only one bill. Finally, every 15 days, a bill is written and sent to the customer, totalling the hours worked on the project during that period. When GCS generates a bill, it uses the bill number to update the work-log entries that are part of that bill. In summary, a bill can refer to many work-log entries, and each work-log entry can be related to only one bill. 
 
 Deliverables:
-1. Critically evaluate existing database technologies and suggest which will be best for Global Computer Solutions (GCS)
-2. Design a database system using normalisation techniques and create an ERD diagram.
-   State any assumptions that you have made and applied.
-3. Develop a database system schema and implement the design system.
+1. Design a database system using normalisation techniques and create an ERD diagram.
+2. Develop a database system schema and implement the design system.
    State any assumptions that you have made and applied. 
    Create a set of tables and relation required for the system.
    Populate your tables with Software Company data sets.
-   Create queries and views based on every service requirement of the dataset.
+3. Create queries and views based on every service requirement of the dataset.
 4. Apply advanced database techniques.
    State any assumption that you have made and applied.
    Apply security measures – define users, assign privileges.
